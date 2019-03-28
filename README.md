@@ -1,5 +1,7 @@
 # python3-escher-pattern
 
+[Online example](https://community.elphel.com/files/escher_pattern/?PAGE_WIDTH=1524&PAGE_HEIGHT=3048&LPM=2.705449885575893&ROTATE=14.036243467)
+
 Generates:
 * Escher pattern
 * Checker board pattern
