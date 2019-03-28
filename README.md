@@ -14,7 +14,7 @@ Outputs is a PDF file. No borders. Ready for printing.
 
 ## comparison
 
-* Escher pattern provides better MTF localization
+* Escher pattern provides better Point Spread Function (PSF) localization
 
 ![](https://community.elphel.com/pictures/escher_vs_checker.png)
 
