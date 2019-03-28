@@ -71,3 +71,4 @@ Parameters:
 * **lpm**    - cell pairs per meter
 * **rotate** - pattern rotation angle
 * **escher** - cell border curvature - at 0 or inf becomes a normal checker board. Max curvature is at ~2.4. Optimal - 2.0
+
