@@ -7,6 +7,8 @@ Generates:
 Used for camera systems optical calibration.
 Outputs is a PDF file. No borders. Ready for printing.
 
+![](https://community.elphel.com/pictures/escher_vs_checker.png)
+
 # Recommendations
 
 * Overall pattern rotation angle 0 is bad for correct MTF computation - because sensor pixel grid
