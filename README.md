@@ -10,6 +10,9 @@ Used for camera systems optical calibration.
 Outputs is a PDF file. No borders. Ready for printing.
 
 ## comparison
+
+* Escher pattern provides better MTF localization
+
 ![](https://community.elphel.com/pictures/escher_vs_checker.png)
 
 # Recommendations
