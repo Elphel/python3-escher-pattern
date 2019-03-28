@@ -1,8 +1,8 @@
 # python3-escher-pattern
 
 Online examples:
-* [Escher](https://community.elphel.com/files/escher_pattern/?PAGE_WIDTH=1524&PAGE_HEIGHT=3048&LPM=2.705449885575893&ROTATE=14.036243467)
-* [Checker board](https://community.elphel.com/files/escher_pattern/?PAGE_WIDTH=1524&PAGE_HEIGHT=3048&LPM=2.705449885575893&ROTATE=14.036243467&ESCHER=0) 
+* [Escher](https://community.elphel.com/files/escher_pattern/?PAGE_WIDTH=1524&PAGE_HEIGHT=3048&LPM=2.705449885575893&ROTATE=14.036243467) - 1524x3048 mm, ~14&deg; CW rotation, ~4 periods total
+* [Checker board](https://community.elphel.com/files/escher_pattern/?PAGE_WIDTH=1524&PAGE_HEIGHT=3048&LPM=2.705449885575893&ROTATE=14.036243467&ESCHER=0) - 1524x3048 mm, ~14&deg; CW rotation, ~4 periods total
 
 
 Generates:
