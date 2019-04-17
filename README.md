@@ -20,7 +20,7 @@ Outputs is a PDF file. No borders. Ready for printing.
 
 # Recommendations
 
-* Overall pattern rotation angle 0 is bad for correct MTF computation - because sensor pixel grid
+* Overall pattern rotation angle 0 is bad for correct PSF computation - because sensor pixel grid
 
 # Requirements
 * matplotlib
